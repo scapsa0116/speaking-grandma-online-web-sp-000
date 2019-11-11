@@ -4,8 +4,7 @@ return "HUH?! SPEAK UP, SONNY!"
   elsif (phrase == phrase.upcase)
     return "NO, NOT SINCE 1938!"
     
-   elsif phrase == "i love you grandma!".upcase
-    return "I LOVE YOU TOO PUMPKIN!"
+   
     
   end
   end
