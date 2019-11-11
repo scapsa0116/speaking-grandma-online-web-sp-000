@@ -1,6 +1,6 @@
 def speak_to_grandma (phrase)
  if (phrase == phrase.upcase) == false
-
+expect(speak_to_grandma("phrase").to eq(phrase)
 return "HUH?! SPEAK UP, SONNY!"
   elsif
     puts "NO, NOT SINCE 1938!"
