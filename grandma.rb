@@ -1,4 +1,3 @@
-input_phrase = "Hi Nana, how are you?"
 def speak_to_grandma (phrase)
  if (phrase == phrase.upcase) == false
 
@@ -11,7 +10,6 @@ return "HUH?! SPEAK UP, SONNY!"
     
   end
   end
-speak_to_grandma(input_phrase)
 
 
     
